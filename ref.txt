@@ -1,0 +1,8 @@
+
+IoT-Based Patient Health Monitoring using ESP32 - Provides an example of a patient monitoring system using ESP32, integrating sensors like ECG and SpO2, transmitting data to a cloud server​
+How2Electronics
+
+Real-Time IoT Patient Monitoring System - Details a real-time IoT monitoring system for patient vitals using Arduino and cloud services.
+
+IoT in Healthcare - Offers insights into the application of IoT in healthcare, including patient data transmission and analysis systems.
+

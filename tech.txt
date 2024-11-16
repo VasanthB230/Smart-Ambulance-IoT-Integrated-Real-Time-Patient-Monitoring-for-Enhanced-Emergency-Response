@@ -1,0 +1,9 @@
+IoT (Internet of Things): For real-time data collection and transmission from ambulances to hospital teams.
+
+Biomedical Sensors: ECG, SpO2, temperature, and blood pressure sensors to monitor patient vitals
+.
+ESP32 Microcontroller: To process and send data from sensors to the cloud platform.
+
+Cloud-Based IoT Platform: For storing and transmitting data to medical teams in real time.
+
+Machine Learning & AI: To analyze historical patient data, predict health deterioration, and detect anomalies in real-time vital signs.
